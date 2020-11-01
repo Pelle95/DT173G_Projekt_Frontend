@@ -1,0 +1,11 @@
+// Variabler för färger
+$main_bg_color: #9bbadf;
+$nav_bg_color: darken($main_bg_color, 20);
+$nav_link_color: #EDF5E1;
+$highlight_color: #d5e039;
+
+// Använder en färg till en klass
+.highlight{
+    color: $highlight_color;
+}
+
